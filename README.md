@@ -115,5 +115,6 @@ Com CI/CD, esses processos são automatizados e mais seguros.
 <img width="1904" height="979" alt="image" src="https://github.com/user-attachments/assets/77e4a4c3-a328-4269-a878-66fe17f581eb" />
 
 
-📌 **PRINT DA RESPOSTA DA API (status 200 + JSON)**
-<img width="1869" height="848" alt="image" src="https://github.com/user-attachments/assets/00fa66df-a68e-496c-b819-a4b1f977dde0" />
+PRINT DA RESPOSTA DA API (status 200 + JSON)
+<img width="1883" height="944" alt="image" src="https://github.com/user-attachments/assets/3d10907b-88d0-40e6-9457-da0d81b4acc7" />
+
