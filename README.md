@@ -36,6 +36,7 @@ Ele está hospedado em: https://rafarifas.netlify.app/
 No front-end, a URL da API foi configurada para apontar para o ambiente de produção, e não mais para localhost.
 
 Exemplo:
+
 ```js
 const API_URL = "https://api-rifas-i7qy.onrender.com";
 
@@ -58,7 +59,7 @@ Isso significa que o GitHub não apenas guarda o código, mas também atua como 
 
 
 📌 **PRINT DO PAINEL DE DEPLOY DO RENDER (mostrando deploy da API atualizado)**
-👉<img width="1780" height="965" alt="image" src="https://github.com/user-attachments/assets/777039d9-3134-486b-a577-039a623cf742" />
+<img width="1780" height="965" alt="image" src="https://github.com/user-attachments/assets/777039d9-3134-486b-a577-039a623cf742" />
 
 
 ---
