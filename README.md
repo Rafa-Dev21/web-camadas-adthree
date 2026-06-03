@@ -39,3 +39,19 @@ Exemplo:
 
 ```js
 const API_URL = "https://api-rifas-i7qy.onrender.com";
+
+3. Como o GitHub conecta tudo
+
+O GitHub funciona como o repositório central do meu projeto, onde fica todo o código do front-end e do back-end versionado.
+
+No meu caso, o front-end e a API estão em repositórios separados, o que facilita a organização e permite fazer deploy de cada parte de forma independente.
+
+Sempre que eu faço um git push, a plataforma de hospedagem (Netlify no front-end e Render no back-end) detecta automaticamente essa atualização no repositório e inicia um novo processo de deploy.
+
+Isso significa que o GitHub não apenas guarda o código, mas também atua como gatilho para atualização da aplicação em produção.
+
+📌 PRINT DO PAINEL DE DEPLOY DO NETLIFY
+<img width="1794" height="890" alt="image" src="https://github.com/user-attachments/assets/bec129b1-ab82-42bf-a9d0-ab409cae318c" />
+
+📌 PRINT DO PAINEL DE DEPLOY DO RENDER (mostrando deploy da API atualizado)
+<img width="1780" height="965" alt="image" src="https://github.com/user-attachments/assets/777039d9-3134-486b-a577-039a623cf742" />
