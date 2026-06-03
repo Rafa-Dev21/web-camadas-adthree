@@ -36,6 +36,7 @@ Ele está hospedado em: https://rafarifas.netlify.app/
 No front-end, a URL da API foi configurada para apontar para o ambiente de produção, e não mais para localhost.
 
 Exemplo:
+const API_URL = "https://api-rifas-i7qy.onrender.com";
 
 
 3. Como o GitHub conecta tudo
