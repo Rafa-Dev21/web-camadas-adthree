@@ -37,8 +37,6 @@ No front-end, a URL da API foi configurada para apontar para o ambiente de produ
 
 Exemplo:
 
-```js
-const API_URL = "https://api-rifas-i7qy.onrender.com";
 
 3. Como o GitHub conecta tudo
 
