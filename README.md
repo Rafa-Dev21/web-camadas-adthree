@@ -39,7 +39,7 @@ Exemplo:
 const API_URL = "https://api-rifas-i7qy.onrender.com";
 
 
-3. Como o GitHub conecta tudo
+## 3. Como o GitHub conecta tudo
 
 O GitHub funciona como o repositório central do meu projeto, onde fica todo o código do front-end e do back-end versionado.
 
