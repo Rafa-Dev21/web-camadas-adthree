@@ -73,13 +73,13 @@ Isso significa que o GitHub não apenas guarda o código, mas também atua como 
 
 CI/CD é um conjunto de práticas que ajudam a automatizar o desenvolvimento, os testes e a publicação de aplicações, tornando o processo mais rápido e confiável.
 
-Continuous Integration (CI)
+## Continuous Integration (CI)
 
 Continuous Integration (Integração Contínua) consiste em integrar frequentemente as alterações de código ao repositório principal. Isso ajuda a identificar erros mais rapidamente e evita problemas quando várias pessoas trabalham no mesmo projeto ao mesmo tempo.
 
 Em equipes de desenvolvimento, a CI reduz conflitos entre versões e garante que o código enviado por diferentes desenvolvedores seja validado constantemente.
 
-Continuous Delivery e Continuous Deployment (CD)
+## Continuous Delivery e Continuous Deployment (CD)
 
 Continuous Delivery (Entrega Contínua) é o processo de preparar automaticamente uma nova versão da aplicação para publicação. Após passar pelas verificações necessárias, a versão fica pronta para ser disponibilizada, mas ainda depende de uma aprovação manual.
 
@@ -91,7 +91,7 @@ Durante o desenvolvimento desta atividade, realizei manualmente etapas como a ho
 
 Quando faço um git push para o GitHub, plataformas como Netlify e Render detectam automaticamente as alterações no repositório e iniciam um novo processo de build e deploy. Esse comportamento é um exemplo prático de automação relacionada aos conceitos de CI/CD.
 
-Exemplo de problema sem CI/CD
+## Exemplo de problema sem CI/CD
 
 Em uma equipe com cinco desenvolvedores trabalhando na mesma API, um programador poderia enviar uma alteração que causasse falhas na aplicação sem perceber. Sem um processo automatizado de validação e deploy, o erro poderia chegar ao ambiente de produção e afetar os usuários.
 
