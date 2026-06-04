@@ -38,6 +38,20 @@ No front-end, a URL da API foi configurada para apontar para o ambiente de produ
 Exemplo:
 const API_URL = "https://api-rifas-i7qy.onrender.com";
 
+### Front-end em funcionamento
+
+<img width="1835" height="909" alt="image" src="https://github.com/user-attachments/assets/76ac1a59-e0ab-4b65-a63d-2d79407165c3" />
+
+### Requisição da API no DevTools (Network)
+
+<img width="1886" height="933" alt="image" src="https://github.com/user-attachments/assets/656328f1-cf86-4e38-8b2f-deb4b3103acd" />
+
+<img width="1920" height="941" alt="image" src="https://github.com/user-attachments/assets/b8815b42-5de5-4a03-bb2e-d91a62f9391c" />
+
+<img width="1481" height="809" alt="image" src="https://github.com/user-attachments/assets/f8020a9f-8206-4740-80dd-2994b331f06f" />
+
+
+Neste print é possível visualizar a requisição realizada pelo front-end para a API hospedada no Render, incluindo a URL da requisição, o status de resposta e os dados retornados pela API.
 
 ## 3. Como o GitHub conecta tudo
 
