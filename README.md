@@ -85,7 +85,7 @@ Continuous Delivery (Entrega Contínua) é o processo de preparar automaticament
 
 Já o Continuous Deployment (Implantação Contínua) vai além, realizando automaticamente a publicação da nova versão após todas as validações serem concluídas com sucesso, sem necessidade de intervenção manual.
 
-Relação com este projeto
+## Relação com este projeto
 
 Durante o desenvolvimento desta atividade, realizei manualmente etapas como a hospedagem do banco de dados, a publicação da API e a configuração do front-end para consumir a API em produção.
 
